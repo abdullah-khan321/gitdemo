@@ -1,3 +1,4 @@
+
 # Prerequisites
 *.d
 
@@ -22,6 +23,8 @@
 *.la
 *.lo
 
+# igonoretextfiles
+*.txt
 # Shared objects (inc. Windows DLLs)
 *.dll
 *.so
